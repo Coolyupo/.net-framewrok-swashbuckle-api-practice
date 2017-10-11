@@ -1,0 +1,44 @@
+﻿[
+  {
+    "ProviderID": "004",
+    "OperatorID": "16123",
+    "OperatorName": {
+      "Zh_tw": "皇家客運",
+      "En": "Royal Bus Co., Ltd."
+    },
+    "OperatorPhone": "(02)8295-7022、0800-551-687",
+    "OperatorEmail": "royal.bus@msn.com",
+    "OperatorUrl": "http://www.royalbus.com.tw",
+    "OperatorCode": "RoyalBus",
+    "UpdateTime": "2017-09-18T00:05:00+08:00",
+    "Version": "V1"
+  },
+  {
+    "ProviderID": "004",
+    "OperatorID": "200",
+    "OperatorName": {
+      "Zh_tw": "首都客運",
+      "En": "Capital Bus Co., Ltd."
+    },
+    "OperatorPhone": "0800-000-866",
+    "OperatorUrl": "http://www.capital-bus.com.tw",
+    "OperatorCode": "CapitalBus",
+    "UpdateTime": "2017-09-18T00:05:00+08:00",
+    "Version": "V1"
+  },
+  {
+    "OperatorCode": "ShinshinBus",
+    "OperatorID": "700",
+    "OperatorName": {
+      "Zh_tw": "欣欣客運",
+      "En": "Shin-Shin Bus Co., Ltd."
+    },
+    "OperatorPhone": "(02) 2369-9696",
+    "OperatorUrl": "http://www.shinbus.com.tw/",
+    "ProviderID": "004",
+    "UpdateTime": "2017-09-18T00:05:00+08:00",
+    "Version": "V1"
+  }
+]
+
+

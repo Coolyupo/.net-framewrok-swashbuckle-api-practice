@@ -1,0 +1,36 @@
+﻿[
+  {
+    "ProviderID": "010",
+    "ProviderName": {
+      "Zh_tw": "公路總局公路汽車客運動態資訊中心"
+    },
+    "ProviderPhone": "02-23070123",
+    "ProviderUrl": "http://www.thb.gov.tw/",
+    "UpdateTime": "2017-05-12T11:25:00+08:00",
+    "ProviderCode": "web.taiwanbus.tw",
+    "Version": "V1"
+  },
+  {
+    "ProviderID": "004",
+    "ProviderName": {
+      "Zh_tw": "臺北市交通局我愛巴士5284 資料庫"
+    },
+    "ProviderPhone": "(02)2727-4168",
+    "ProviderEmail": "gt_5284@mail.taipei.gov.tw",
+    "ProviderUrl": "http://www.thb.gov.tw/",
+    "UpdateTime": "2017-05-12T11:25:00+08:00",
+    "ProviderCode": "5284",
+    "Version": "V1"
+  },
+  {
+    "ProviderID": "005",
+    "ProviderName": {
+      "Zh_tw": "新北市政府公車動態資訊系統(立皓)"
+    },
+    "ProviderPhone": "02-29603456",
+    "ProviderUrl": "http://www.traffic.ntpc.gov.tw/",
+    "UpdateTime": "2017-05-12T11:25:00+08:00",
+    "ProviderCode": "e-bus.tpc.gov.tw",
+    "Version": "V1"
+  }
+]

@@ -1,0 +1,32 @@
+﻿[
+  {
+    "AuthorityID": "007",
+    "AuthorityName": {
+      "Zh_tw": "臺中市政府交通局"
+    },
+    "AuthorityPhone": "04-22289111",
+    "AuthorityUrl": "http://www.traffic.taichung.gov.tw/",
+    "AuthorityCode": "TXG",
+    "UpdateTime": "2016-12-20T18:00:00+08:00"
+  },
+  {
+    "AuthorityID": "011",
+    "AuthorityName": {
+      "Zh_tw": "基隆市政府交通旅遊處"
+    },
+    "AuthorityPhone": "(02)2425-8236",
+    "AuthorityUrl": "http://www.klcg.gov.tw/tourism/",
+    "AuthorityCode": "KEE",
+    "UpdateTime": "2016-12-20T18:00:00+08:00"
+  },
+  {
+    "AuthorityID": "003",
+    "AuthorityName": {
+      "Zh_tw": "交通部民用航空局"
+    },
+    "AuthorityPhone": "0800211798",
+    "AuthorityUrl": "http://www.caa.gov.tw/",
+    "AuthorityCode": "CAA",
+    "UpdateTime": "2016-12-20T18:00:00+08:00"
+  }
+]
